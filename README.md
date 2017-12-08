@@ -3,6 +3,6 @@
 
 目前只能爆破PHPWebshell密码
 
-字典网上找的，不是很全望见谅
+字典网上找的，不是很全（望见谅）
 
 如果不能运行请安装requests库:pip install requests
